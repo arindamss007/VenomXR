@@ -1,6 +1,6 @@
 # VenomXR
 
-Description :
+#Description :
 This is a tool for ethical hackers who wants to test and penetrate there systems. Some of the features of the tools are : - 
 
 1) Information Gathering 
@@ -8,56 +8,59 @@ This is a tool for ethical hackers who wants to test and penetrate there systems
 3) Network Scanning 
 4) Sniffing 
 5) Forensics.
+
 And many more features will be available very soon as version updates. For major updates stay connected with VenomXR.
 
-OS Support :  1) Debian (Ubuntu, Kali, etc.) 2) Red-Hat 3) Termux
+#OS Support :  1) Debian (Ubuntu, Kali, etc.) 2) Red-Hat 3) Termux
 
-INSTALLATION :
+#INSTALLATION :
 
-1) Debian (Ubuntu, Kali, etc.)
+[ Debian (Ubuntu, Kali, etc.) ]
 
-$sudo apt-get update
+  $sudo apt-get update
 
-$sudo apt install git
+  $sudo apt install git
 
-$sudo git clone https://github.com/arindamss007/VenomXR
+  $sudo git clone https://github.com/arindamss007/VenomXR
 
-$cd VenomXR
+  $cd VenomXR
 
-$bash Debian-setup.sh
+  $bash Debian-setup.sh
 
-$sudo bash VenomXR.sh
+  $sudo bash VenomXR.sh
 
 
-2) Red-Hat
+[ Red-Hat ]
  
-$sudo yum -y update
+  $sudo yum -y update
 
-$sudo yum -y install git
+  $sudo yum -y install git
 
-$sudo git clone https://github.com/arindamss007/VenomXR
+  $sudo git clone https://github.com/arindamss007/VenomXR
 
-$cd VenomXR
+  $cd VenomXR
 
-$bash Redhat-setup.sh
+  $bash Redhat-setup.sh
 
-$sudo bash VenomXR.sh
-
-
-3) Termux
-
-$apt-get update
-
-$pkg install git
-
-$git clone https://github.com/arindamss007/VenomXR
-
-$cd VenomXR
-
-$bash Termux-setup.sh
-
-$bash VenomXR.sh
+  $sudo bash VenomXR.sh
 
 
+[ Termux ]
 
-DISCLAIMER : This Tool is made for educational pourpouse and testing system ethically. Use this tool with responsibility. Don't use it for offensive tasks. Use it with your own responsibilities. 
+  $apt-get update
+
+  $pkg install git
+
+  $git clone https://github.com/arindamss007/VenomXR
+
+  $cd VenomXR
+
+  $bash Termux-setup.sh
+
+  $bash VenomXR.sh
+
+
+
+
+
+#DISCLAIMER : This Tool is made for educational pourpouse and testing system ethically. Use this tool with responsibility. Don't use it for offensive tasks. Use it with your own responsibilities. 
