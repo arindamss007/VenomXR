@@ -30,7 +30,7 @@ $sudo bash VenomXR.sh
 
 
 2) Red-Hat
-3) 
+ 
 $sudo yum -y update
 
 $sudo yum -y install git
