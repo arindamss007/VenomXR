@@ -339,13 +339,13 @@ function tmxlog()
     echo "			                  LIBRARY DETAILS"
     echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
     echo
-    $sudo ls /data/data/com.termux/files/usr/var/lib
+    $sudo ls /data/data/com.termux/files/usr/lib
     echo
     echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
     echo "			                BINARY PACKAGE DETAILS"
     echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
     echo
-    $sudo ls /data/data/com.termux/files/usr/var/bin
+    $sudo ls /data/data/com.termux/files/usr/bin
 }
 
 function nitfs()
