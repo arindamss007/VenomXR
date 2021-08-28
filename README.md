@@ -1,6 +1,6 @@
 # VenomXR
 
-#Description :
+🔰🔰 Description :
 This is a tool for ethical hackers who wants to test and penetrate there systems. Some of the features of the tools are : - 
 
 1) Information Gathering 
@@ -11,56 +11,57 @@ This is a tool for ethical hackers who wants to test and penetrate there systems
 
 And many more features will be available very soon as version updates. For major updates stay connected with VenomXR.
 
-#OS Support :  1) Debian (Ubuntu, Kali, etc.) 2) Red-Hat 3) Termux
+🔰🔰 OS Support :  1) Debian (Ubuntu, Kali, etc.) 2) Red-Hat 3) Termux
 
-#INSTALLATION :
+🔰🔰 INSTALLATION 💻💻
 
-[ Debian (Ubuntu, Kali, etc.) ]
+🛑 Debian (Ubuntu, Kali, etc.) 
 
-  $sudo apt-get update
+  Step 01) $sudo apt-get update
 
-  $sudo apt install git
+  Step 02) $sudo apt install git
 
-  $sudo git clone https://github.com/arindamss007/VenomXR
+  Step 03) $sudo git clone https://github.com/arindamss007/VenomXR
 
-  $cd VenomXR
+  Step 04) $cd VenomXR
 
-  $bash Debian-setup.sh
+  Step 05) $bash Debian-setup.sh
 
-  $sudo bash VenomXR.sh
+  Step 06) $sudo bash VenomXR.sh
 
 
-[ Red-Hat ]
+🛑 Red-Hat 
  
-  $sudo yum -y update
+  Step 01) $sudo yum -y update
 
-  $sudo yum -y install git
+  Step 02) $sudo yum -y install git
 
-  $sudo git clone https://github.com/arindamss007/VenomXR
+  Step 03) $sudo git clone https://github.com/arindamss007/VenomXR
 
-  $cd VenomXR
+  Step 04) $cd VenomXR
 
-  $bash Redhat-setup.sh
+  Step 05) $bash Redhat-setup.sh
 
-  $sudo bash VenomXR.sh
-
-
-[ Termux ]
-
-  $apt-get update
-
-  $pkg install git
-
-  $git clone https://github.com/arindamss007/VenomXR
-
-  $cd VenomXR
-
-  $bash Termux-setup.sh
-
-  $bash VenomXR.sh
+  Step 06) $sudo bash VenomXR.sh
 
 
+🛑 Termux 
+
+  Step 01) $apt-get update
+
+  Step 02) $pkg install git
+
+  Step 03 $git clone https://github.com/arindamss007/VenomXR
+
+  Step 04) $cd VenomXR
+
+  Step 05) $bash Termux-setup.sh
+
+  Step 06) $bash VenomXR.sh
 
 
 
-#DISCLAIMER : This Tool is made for educational pourpouse and testing system ethically. Use this tool with responsibility. Don't use it for offensive tasks. Use it with your own responsibilities. 
+
+
+⚠️DISCLAIMER : This Tool is made for educational pourpouse and testing system ethically. Use this tool with responsibility. Don't use it for offensive tasks. Use it with your own responsibilities.
+
