@@ -1,7 +1,7 @@
 # VenomXR
 
 🔰🔰 Description :
-This is a tool for ethical hackers who wants to test and penetrate there systems. Some of the features of the tools are : - 
+This is a tool for ethical hackers who wants to test and penetrate their systems. Some of the features of the tool are : - 
 
 1) Information Gathering 
 2) Danial-of-Service 
