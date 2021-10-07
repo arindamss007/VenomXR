@@ -230,7 +230,7 @@ function sns()
 
     echo
     echo
-    $sudo nmap -A $ipmap
+    $sudo nmap $ipmap
     echo
 }
 function ipd()
