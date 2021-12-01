@@ -17,11 +17,11 @@ And many more features will be available very soon as version updates. For major
 
 🛑 Debian (Ubuntu, Kali, etc.) 
 
-      01) $sudo apt-get update
+      $sudo apt-get update
 
       $sudo apt install git
 
-      03) $sudo git clone https://github.com/arindamss007/VenomXR
+      $sudo git clone https://github.com/arindamss007/VenomXR
 
       $cd VenomXR
 
