@@ -17,47 +17,47 @@ And many more features will be available very soon as version updates. For major
 
 🛑 Debian (Ubuntu, Kali, etc.) 
 
-  Step 01) $sudo apt-get update
+      01) $sudo apt-get update
 
-  Step 02) $sudo apt install git
+      $sudo apt install git
 
-  Step 03) $sudo git clone https://github.com/arindamss007/VenomXR
+      03) $sudo git clone https://github.com/arindamss007/VenomXR
 
-  Step 04) $cd VenomXR
+      $cd VenomXR
 
-  Step 05) $bash Debian-setup.sh
+      $bash Debian-setup.sh
 
-  Step 06) $sudo bash VenomXR.sh
+      $sudo bash VenomXR.sh
 
 
 🛑 Red-Hat 
  
-  Step 01) $sudo yum -y update
+    $sudo yum -y update
 
-  Step 02) $sudo yum -y install git
+    $sudo yum -y install git
 
-  Step 03) $sudo git clone https://github.com/arindamss007/VenomXR
+    $sudo git clone https://github.com/arindamss007/VenomXR
 
-  Step 04) $cd VenomXR
+    $cd VenomXR
 
-  Step 05) $bash Redhat-setup.sh
+    $bash Redhat-setup.sh
 
-  Step 06) $sudo bash VenomXR.sh
+    $sudo bash VenomXR.sh
 
 
 🛑 Termux 
 
-  Step 01) $apt-get update
+    $apt-get update
 
-  Step 02) $pkg install git
+    $pkg install git
 
-  Step 03 $git clone https://github.com/arindamss007/VenomXR
+    $git clone https://github.com/arindamss007/VenomXR
 
-  Step 04) $cd VenomXR
+    $cd VenomXR
 
-  Step 05) $bash Termux-setup.sh
+    $bash Termux-setup.sh
 
-  Step 06) $bash VenomXR.sh
+    $bash VenomXR.sh
 
 
 
