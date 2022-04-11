@@ -63,5 +63,5 @@ And many more features will be available very soon as version updates. For major
 
 
 
-⚠️DISCLAIMER : This Tool is made for educational pourpouse and testing system ethically. Use this tool with responsibility. Don't use it for offensive tasks. Use it with your own responsibilities.
+⚠️DISCLAIMER : This Tool is made for educational purpose and testing system ethically. Use this tool with responsibility. Don't use it for offensive tasks. Use it with your own responsibilities.
 
